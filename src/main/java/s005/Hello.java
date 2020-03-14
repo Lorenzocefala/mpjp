@@ -5,11 +5,3 @@ public class Hello {
         System.out.println("Hello!");
     }
 }
-//
-//
-//
-//  prova commit 
-//
-// dknsowm emomdù
-//kndkwm
-//ugui
